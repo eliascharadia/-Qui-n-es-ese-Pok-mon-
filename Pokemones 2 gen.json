@@ -1,0 +1,175 @@
+{
+    "pokemones": [
+        {
+            "nombre_ingles": "dunsparce",
+            "nombre_frances": "insolourdo",
+            "nombre_aleman": "dummisel",
+            "nombre_japones": "nokotchi",
+            "nombre_chino": "tu long didi",
+            "cirueta": "Imagenes ciruetas 2 gen\\dunsparce.PNG",
+            "revelado": "Imganes reveladas 2 gen\\dunsparce.PNG"
+        },
+        {
+            "nombre_ingles": "ariados",
+            "nombre_frances": "migalos",
+            "nombre_aleman": "ariados",
+            "nombre_japones": "ariadosu",
+            "nombre_chino": "aliduosi",
+            "cirueta": "Imagenes ciruetas 2 gen\\ariados.PNG",
+            "revelado": "Imganes reveladas 2 gen\\ariados.PNG"
+        },
+        {
+            "nombre_ingles": "blissey",
+            "nombre_frances": "leuphorine",
+            "nombre_aleman": "heiteira",
+            "nombre_japones": "hapinasu",
+            "nombre_chino": "xingfu dan",
+            "cirueta": "Imagenes ciruetas 2 gen\\blissey.PNG",
+            "revelado": "Imganes reveladas 2 gen\\blissey.PNG"
+        },
+        {
+            "nombre_ingles": "crobat",
+            "nombre_frances": "nostenfer",
+            "nombre_aleman": "iksbat",
+            "nombre_japones": "crobatto",
+            "nombre_chino": "chazi fu",
+            "cirueta": "Imagenes ciruetas 2 gen\\crobat.PNG",
+            "revelado": "Imganes reveladas 2 gen\\crobat.PNG"
+        },
+        {
+            "nombre_ingles": "croconaw",
+            "nombre_frances": "crocrodil",
+            "nombre_aleman": "tyracroc",
+            "nombre_japones": "arigeitsu",
+            "nombre_chino": "zao yuwang",
+            "cirueta": "Imagenes ciruetas 2 gen\\croconaw.PNG",
+            "revelado": "Imganes reveladas 2 gen\\croconaw.PNG"
+        },
+        {
+            "nombre_ingles": "elekid",
+            "nombre_frances": "elekid",
+            "nombre_aleman": "elekid",
+            "nombre_japones": "erekid",
+            "nombre_chino": "dian ji guai",
+            "cirueta": "Imagenes ciruetas 2 gen\\elekid.PNG",
+            "revelado": "Imganes reveladas 2 gen\\elekid.PNG"
+        },
+        {
+            "nombre_ingles": "gligar",
+            "nombre_frances": "scorplane",
+            "nombre_aleman": "skorgla",
+            "nombre_japones": "gliger",
+            "nombre_chino": "tianxie feng",
+            "cirueta": "Imagenes ciruetas 2 gen\\gligar.PNG",
+            "revelado": "Imganes reveladas 2 gen\\gligar.PNG"
+        },
+        {
+            "nombre_ingles": "kingdra",
+            "nombre_frances": "hyporoi",
+            "nombre_aleman": "seedraking",
+            "nombre_japones": "kingudora",
+            "nombre_chino": "ci longwang",
+            "cirueta": "Imagenes ciruetas 2 gen\\kingdra.PNG",
+            "revelado": "Imganes reveladas 2 gen\\kingdra.PNG"
+        },
+        {
+            "nombre_ingles": "ledian",
+            "nombre_frances": "coxyclaque",
+            "nombre_aleman": "ledian",
+            "nombre_japones": "redian",
+            "nombre_chino": "an piaochong",
+            "cirueta": "Imagenes ciruetas 2 gen\\ledian.PNG",
+            "revelado": "Imganes reveladas 2 gen\\ledian.PNG"
+        },
+        {
+            "nombre_ingles": "magcargo",
+            "nombre_frances": "volcaropod",
+            "nombre_aleman": "magcargo",
+            "nombre_japones": "magukarugo",
+            "nombre_chino": "rongyan woniu",
+            "cirueta": "Imagenes ciruetas 2 gen\\magcargo.PNG",
+            "revelado": "Imganes reveladas 2 gen\\magcargo.PNG"
+        },
+        {
+            "nombre_ingles": "mantine",
+            "nombre_frances": "demanta",
+            "nombre_aleman": "mantax",
+            "nombre_japones": "mantine",
+            "nombre_chino": "ju chi feiyu",
+            "cirueta": "Imagenes ciruetas 2 gen\\mantine.PNG",
+            "revelado": "Imganes reveladas 2 gen\\mantine.PNG"
+        },
+        {
+            "nombre_ingles": "lugia",
+            "nombre_frances": "lugia",
+            "nombre_aleman": "lugia",
+            "nombre_japones": "rugia",
+            "nombre_chino": "luoquiya",
+            "cirueta": "Imagenes ciruetas 2 gen\\lugia.PNG",
+            "revelado": "Imganes reveladas 2 gen\\lugia.PNG"
+        },
+        {
+            "nombre_ingles": "politoed",
+            "nombre_frances": "tarpaud",
+            "nombre_aleman": "quaxo",
+            "nombre_japones": "nyorotono",
+            "nombre_chino": "wenxiang wahuang",
+            "cirueta": "Imagenes ciruetas 2 gen\\politoed.PNG",
+            "revelado": "Imganes reveladas 2 gen\\politoed.PNG"
+        },
+        {
+            "nombre_ingles": "scizor",
+            "nombre_frances": "cizayox",
+            "nombre_aleman": "scherox",
+            "nombre_japones": "hassamu",
+            "nombre_chino": "ju quian tanglang",
+            "cirueta": "Imagenes ciruetas 2 gen\\scizor.PNG",
+            "revelado": "Imganes reveladas 2 gen\\scizor.PNG"
+        },
+        {
+            "nombre_ingles": "sentret",
+            "nombre_frances": "fouinette",
+            "nombre_aleman": "wiesor",
+            "nombre_japones": "otachi",
+            "nombre_chino": "weili",
+            "cirueta": "Imagenes ciruetas 2 gen\\sentret.PNG",
+            "revelado": "Imganes reveladas 2 gen\\sentret.PNG"
+        },
+        {
+            "nombre_ingles": "sneasel",
+            "nombre_frances": "farfuret",
+            "nombre_aleman": "sniebel",
+            "nombre_japones": "nyura",
+            "nombre_chino": "niula",
+            "cirueta": "Imagenes ciruetas 2 gen\\sneasel.PNG",
+            "revelado": "Imganes reveladas 2 gen\\sneasel.PNG"
+        },
+        {
+            "nombre_ingles": "spinarak",
+            "nombre_frances": "mimigal",
+            "nombre_aleman": "webarak",
+            "nombre_japones": "itomaru",
+            "nombre_chino": "yuansi zhu",
+            "cirueta": "Imagenes ciruetas 2 gen\\spinarak.PNG",
+            "revelado": "Imganes reveladas 2 gen\\spinarak.PNG"
+        },
+        {
+            "nombre_ingles": "umbreon",
+            "nombre_frances": "noctali",
+            "nombre_aleman": "nachtara",
+            "nombre_japones": "nurakki",
+            "nombre_chino": "yue jingling",
+            "cirueta": "Imagenes ciruetas 2 gen\\umbreon.PNG",
+            "revelado": "Imganes reveladas 2 gen\\umbreon.PNG"
+        },
+        {
+            "nombre_ingles": "xatu",
+            "nombre_frances": "xatu",
+            "nombre_aleman": "xatu",
+            "nombre_japones": "neitio",
+            "nombre_chino": "tian goushen",
+            "cirueta": "Imagenes ciruetas 2 gen\\xatu.PNG",
+            "revelado": "Imganes reveladas 2 gen\\xatu.PNG"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "pokemones": [
+        {
+            "nombre_ingles": "venonat",
+            "nombre_frances": "mimitoss",
+            "nombre_aleman": "bluzuk",
+            "nombre_japones": "konpan",
+            "nombre_chino": "Mulixian",
+            "cirueta": "Imagenes_ciruetas\\Venonat.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Venonat.PNG"
+        },
+        {
+            "nombre_ingles": "squirtle",
+            "nombre_frances": "carapuce",
+            "nombre_aleman": "schiggy",
+            "nombre_japones": "zenigame",
+            "nombre_chino": "Jie ni gui",
+            "cirueta": "Imagenes_ciruetas\\squirtle.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Squirtle.PNG"
+        },
+        {
+            "nombre_ingles": "caterpie",
+            "nombre_frances": "chenipan",
+            "nombre_aleman": "raupy",
+            "nombre_japones": "kyatapi",
+            "nombre_chino": "Lumaochong",
+            "cirueta": "Imagenes_ciruetas\\Caterpie.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Caterpie.PNG"
+        },
+        {
+            "nombre_ingles": "charmeleon",
+            "nombre_frances": "reptincel",
+            "nombre_aleman": "glutexo",
+            "nombre_japones": "rizaado",
+            "nombre_chino": "xiao Huolong",
+            "cirueta": "Imagenes_ciruetas\\Charmeleon.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Charmeleon.PNG"
+        },
+        {
+            "nombre_ingles": "dewgong",
+            "nombre_frances": "lamantine",
+            "nombre_aleman": "jugong",
+            "nombre_japones": "jugon",
+            "nombre_chino": "bai Hai Shi",
+            "cirueta": "Imagenes_ciruetas\\Dewgong.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Dewgong.PNG"
+        },
+        {
+            "nombre_ingles": "eevee",
+            "nombre_frances": "evoli",
+            "nombre_aleman": "evoli",
+            "nombre_japones": "ibui",
+            "nombre_chino": "yi bu",
+            "cirueta": "Imagenes_ciruetas\\Eevee.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Eevee.PNG"
+        },
+        {
+            "nombre_ingles": "electabuzz",
+            "nombre_frances": "elektek",
+            "nombre_aleman": "elektek",
+            "nombre_japones": "erebu",
+            "nombre_chino": "dian ji shou",
+            "cirueta": "Imagenes_ciruetas\\Electabuzz.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Electabuzz.PNG"
+        },
+        {
+            "nombre_ingles": "electrode",
+            "nombre_frances": "electrode",
+            "nombre_aleman": "lektrobal",
+            "nombre_japones": "marumain",
+            "nombre_chino": "wanpi Leidan",
+            "cirueta": "Imagenes_ciruetas\\Electrode.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Electrode.PNG"
+        },
+        {
+            "nombre_ingles": "flareon",
+            "nombre_frances": "pyroli",
+            "nombre_aleman": "flamara",
+            "nombre_japones": "boosutaa",
+            "nombre_chino": "Huo Yi bu",
+            "cirueta": "Imagenes_ciruetas\\Flareon.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Flareon.PNG"
+        },
+        {
+            "nombre_ingles": "golbat",
+            "nombre_frances": "Nosferalto",
+            "nombre_aleman": "golbat",
+            "nombre_japones": "gorubatto",
+            "nombre_chino": "Dazuifu",
+            "cirueta": "Imagenes_ciruetas\\Golbat.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Golbat.PNG"
+        },
+        {
+            "nombre_ingles": "golem",
+            "nombre_frances": "grolem",
+            "nombre_aleman": "geowaz",
+            "nombre_japones": "goroonia",
+            "nombre_chino": "longlong yan",
+            "cirueta": "Imagenes_ciruetas\\Golem.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Golem.PNG"
+        },
+        {
+            "nombre_ingles": "koffing",
+            "nombre_frances": "smogo",
+            "nombre_aleman": "smogon",
+            "nombre_japones": "dogasu",
+            "nombre_chino": "wasi dan",
+            "cirueta": "Imagenes_ciruetas\\Koffing.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Koffing.PNG"
+        },
+        {
+            "nombre_ingles": "magnemite",
+            "nombre_frances": "magneti",
+            "nombre_aleman": "magnetilo",
+            "nombre_japones": "koiru",
+            "nombre_chino": "xiao Ci guai",
+            "cirueta": "Imagenes_ciruetas\\Magnemite.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Magnemite.PNG"
+        },
+        {
+            "nombre_ingles": "meowth",
+            "nombre_frances": "miaouss",
+            "nombre_aleman": "mauzi",
+            "nombre_japones": "nyasu",
+            "nombre_chino": "miaomiao",
+            "cirueta": "Imagenes_ciruetas\\Meowth.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Meowth.PNG"
+        },
+        {
+            "nombre_ingles": "onix",
+            "nombre_frances": "onix",
+            "nombre_aleman": "onix",
+            "nombre_japones": "iwaku",
+            "nombre_chino": "dayanshe",
+            "cirueta": "Imagenes_ciruetas\\Onix.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Onix.PNG"
+        },
+        {
+            "nombre_ingles": "pidgeotto",
+            "nombre_frances": "roucoups",
+            "nombre_aleman": "tauboga",
+            "nombre_japones": "pijoto",
+            "nombre_chino": "bibi niao",
+            "cirueta": "Imagenes_ciruetas\\Pidgeotto.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Pidgeotto.PNG"
+        },
+        {
+            "nombre_ingles": "pikachu",
+            "nombre_frances": "pikachu",
+            "nombre_aleman": "pikachu",
+            "nombre_japones": "pikachuu",
+            "nombre_chino": "pikaqiu",
+            "cirueta": "Imagenes_ciruetas\\Pikachu.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Pikachu.PNG"
+        },
+        {
+            "nombre_ingles": "ponyta",
+            "nombre_frances": "ponyta",
+            "nombre_aleman": "ponita",
+            "nombre_japones": "ponita",
+            "nombre_chino": "xiao Huoma",
+            "cirueta": "Imagenes_ciruetas\\Ponyta.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Ponyta.PNG"
+        },
+        {
+            "nombre_ingles": "psyduck",
+            "nombre_frances": "psykokwak",
+            "nombre_aleman": "enton",
+            "nombre_japones": "kodakku",
+            "nombre_chino": "keda Ya",
+            "cirueta": "Imagenes_ciruetas\\Psyduck.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Psyduck.PNG"
+        },
+        {
+            "nombre_ingles": "starmie",
+            "nombre_frances": "stari",
+            "nombre_aleman": "starmie",
+            "nombre_japones": "sutami",
+            "nombre_chino": "baoshi haixing",
+            "cirueta": "Imagenes_ciruetas\\Starmie.PNG",
+            "revelado": "Imagenes_reveladas_completas\\Starmie.PNG"
+        }
+    ]
+}
