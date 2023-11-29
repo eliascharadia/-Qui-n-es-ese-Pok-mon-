@@ -93,7 +93,7 @@ while flag:
                         tiempo_racha = tiempo_pregunta_pokemon 
                 else:    
                     # racha_actual = 0
-                    contador_de_jugadas = 11
+                    contador_de_jugadas = 10
                     
 
             elif evento.key == pygame.K_BACKSPACE:#Si se presiono la tecla de borrar borro un caracter
