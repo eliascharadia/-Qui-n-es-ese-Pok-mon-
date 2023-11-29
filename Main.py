@@ -92,7 +92,7 @@ while flag:
                     if tiempo_racha == 0 or tiempo_pregunta_pokemon < tiempo_racha:    
                         tiempo_racha = tiempo_pregunta_pokemon 
                 else:    
-                    racha_actual = 0
+                    # racha_actual = 0
                     contador_de_jugadas = 11
                     
 
@@ -284,8 +284,6 @@ while flag:
             archivo.write(mensaje)
 
 
-        nombre_ingles = pokemon_random["nombre_ingles"]
-        subir_texto_pantalla(screen, f'- Se equivocó con el pokemon: {nombre_ingles}',(140,220), fuente_datos_strakes, AZUL_CELESTE_OBSCURO)
         racha = 0
         contador_de_jugadas += 1
     else:
@@ -300,6 +298,9 @@ while flag:
 
         su_mejor_racha = fuente_datos_strakes.render(f'- Su mejor racha registrada fue: {mejor_racha}',False,AZUL_CELESTE_OBSCURO)
         screen.blit(su_mejor_racha,(140,180))
+        
+        nombre_ingles = pokemon_random["nombre_ingles"]
+        subir_texto_pantalla(screen, f'- Se equivocó con el pokemon: {nombre_ingles}',(140,220), fuente_datos_strakes, AZUL_CELESTE_OBSCURO)
         
         subir_texto_pantalla(screen,'- Mejor tiempo obtenido: ',(140, 200),fuente_datos_strakes, AZUL_CELESTE_OBSCURO)
         subir_texto_pantalla(screen,tiempo_racha,(320,200), fuente_datos_strakes, AZUL_CELESTE_OBSCURO)
